@@ -1,0 +1,8 @@
+#oppgave 4
+#variabel i rdi flyttes til rax
+#Multipliserer neste parameter med 3 i rsi
+#rsi + rax
+#rdx - rax
+#return
+
+#(a+3B)-c

@@ -1,0 +1,2 @@
+navn, alder = raw_input("Skriv in navn og alder: ").split()
+print ()
